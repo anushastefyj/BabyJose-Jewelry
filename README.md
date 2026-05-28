@@ -84,9 +84,6 @@ Smart recommendation engine based on:
 
 ---
 
-<img width="526" height="915" alt="image" src="https://github.com/user-attachments/assets/c5a5232f-816d-449c-85d6-ca3297b4c584" />
-
-
 ## Project Structure
 
 ```bash
