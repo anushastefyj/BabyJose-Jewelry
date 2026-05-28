@@ -124,4 +124,6 @@ https://anushastefyj.github.io/BabyJose-Jewelry/
 
 Anusha Stefy
 
-AI & ML Student | Frontend Developer | AI Enthusiast
+AI & Data Science Student | Web Developer | Data Analyst | Frontend Developer | AI Enthusiast
+
+"Designing experiences where elegance meets intelligence."
