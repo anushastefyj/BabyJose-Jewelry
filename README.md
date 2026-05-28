@@ -122,7 +122,7 @@ https://anushastefyj.github.io/BabyJose-Jewelry/
 
 ## Developed By
 
-Anusha Stefy
+Anusha Stefy J
 
 AI & Data Science Student | Web Developer | Data Analyst | Frontend Developer | AI Enthusiast
 
